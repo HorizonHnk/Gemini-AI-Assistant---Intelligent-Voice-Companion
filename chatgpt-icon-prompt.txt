@@ -1,0 +1,58 @@
+CHATGPT ICON GENERATION PROMPT FOR AI ASSISTANT APP
+=====================================================
+
+Please create the following icons for my AI Assistant mobile app:
+
+APP DESCRIPTION:
+- AI Assistant app with voice interaction capabilities
+- Features camera vision, speech recognition, and conversation
+- Modern, clean interface with dark/light theme support
+- Target audience: General users who want an intelligent voice assistant
+- Primary colors: Blue (#3B82F6), Green (#10B981), Purple (#8B5CF6)
+
+ICON REQUIREMENTS:
+
+1. APP ICON (SQUARE - 1024x1024px):
+Create a modern, minimalist app icon featuring:
+- Central element: A stylized microphone or speech bubble combined with an AI/brain symbol
+- Color scheme: Gradient from blue to purple with subtle green accents
+- Style: Flat design with subtle shadows and highlights
+- Should work well on both light and dark backgrounds
+- Include subtle tech/AI elements like circuit patterns or neural network lines
+- Make it recognizable and professional
+- Avoid text in the icon
+
+2. SPLASH SCREEN IMAGE (RECTANGULAR - 2048x1024px):
+Create a welcome/splash screen image featuring:
+- Same design language as the app icon but in landscape format
+- Central focus on the app logo/icon
+- Background: Subtle gradient or geometric patterns
+- Optional: Add the app name "AI Assistant" in clean, modern typography
+- Should feel welcoming and tech-forward
+- Maintain the blue-purple-green color scheme
+
+3. BANNER IMAGE (RECTANGULAR - 1920x1080px):
+Create a promotional banner featuring:
+- App icon on the left or center
+- Text space for "AI Assistant - Your Intelligent Voice Companion"
+- Background: Modern, tech-inspired design
+- Include visual elements suggesting voice/audio (sound waves, microphone elements)
+- Should work for app store screenshots or promotional materials
+
+DESIGN STYLE GUIDELINES:
+- Modern, clean, minimalist aesthetic
+- Flat design with subtle depth
+- Professional yet approachable
+- Tech-forward but not overly complex
+- Should appeal to both business and casual users
+- Ensure high contrast and visibility at small sizes
+- Make it distinctive and memorable
+
+TECHNICAL REQUIREMENTS:
+- High resolution (as specified above)
+- PNG format with transparency where appropriate
+- Crisp edges and clean lines
+- Should scale well from large sizes down to small app icon sizes
+- Consider how it looks in both light and dark app store themes
+
+Please generate these three images following these specifications. Make sure they maintain a consistent visual identity while serving their specific purposes.

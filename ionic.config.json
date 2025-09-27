@@ -1,0 +1,7 @@
+{
+  "name": "AI Assistant App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.aiassistantapp",
+  "appName": "AI Assistant App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
