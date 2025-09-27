@@ -35,6 +35,7 @@
 - [📈 Performance](#-performance)
 - [🔗 Links](#-links)
 - [🚀 Recent Updates](#-recent-updates)
+- [👥 Contributors](#-contributors)
 - [📧 Contact](#-contact)
 
 ---
@@ -409,6 +410,7 @@ npx cap run android
 
 | Document | Description | Link |
 |----------|-------------|------|
+| **👥 Contributors Guide** | Team details and individual contributions | [CONTRIBUTORS.md](CONTRIBUTORS.md) |
 | **🛠 Blank Screen Fix** | Troubleshooting production builds | [BLANK-SCREEN-FIX.md](BLANK-SCREEN-FIX.md) |
 | **🖥 Electron Build Guide** | Desktop app development | [ELECTRON-BUILD-GUIDE.md](ELECTRON-BUILD-GUIDE.md) |
 | **👥 Team Notification** | Project overview for colleagues | [TEAM-NOTIFICATION.txt](TEAM-NOTIFICATION.txt) |
@@ -517,13 +519,37 @@ npx cap run android
 
 ---
 
+## 👥 Contributors
+
+<div align="center">
+
+### **🏆 Team MindBuilder**
+*Google DeepMind AI Hackathon Participants*
+
+| Contributor | Role | GitHub Profile |
+|-------------|------|----------------|
+| **Henock Hnk** | Project Lead & Main Developer | [![GitHub](https://img.shields.io/badge/GitHub-HorizonHnk-black?style=flat-square&logo=github)](https://github.com/HorizonHnk) |
+| **Shaqeelless4** | Core Developer | [![GitHub](https://img.shields.io/badge/GitHub-shaqeelless4-black?style=flat-square&logo=github)](https://github.com/shaqeelless4) |
+| **Josue kb** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-josuekb09-black?style=flat-square&logo=github)](https://github.com/josuekb09) |
+| **Zama** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-zama0344-black?style=flat-square&logo=github)](https://github.com/zama0344) |
+
+### **🎯 Team Information**
+- **Team Name**: **MindBuilder**
+- **Discord Channel**: **#team-mindbuilder**
+- **Event**: **Google DeepMind AI Hackathon**
+- **Project Type**: **Collaborative AI Assistant Development**
+
+</div>
+
+---
+
 ## 📧 Contact
 
 <div align="center">
 
-### **👨‍💻 Developer**
+### **👨‍💻 Development Team**
 
-**Project Maintainer**: AI Assistant Development Team
+**Project Maintainers**: Team MindBuilder
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/HorizonHnk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)

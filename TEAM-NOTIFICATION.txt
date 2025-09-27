@@ -2,7 +2,18 @@
 
 Dear Team,
 
-I'm excited to share that our AI Assistant project has been significantly updated with new features and is now live!
+Team MindBuilder is excited to share that our AI Assistant project from the Google DeepMind AI Hackathon has been significantly updated with new features and is now live!
+
+🏆 TEAM MINDBUILDER MEMBERS:
+• Henock Hnk (@HorizonHnk) - Project Lead & Main Developer
+• Shaqeelless4 (@shaqeelless4) - Core Developer
+• Josue kb (@josuekb09) - Developer
+• Zama (@zama0344) - Developer
+
+🎯 HACKATHON CONTEXT:
+• Event: Google DeepMind AI Hackathon 2025
+• Team: MindBuilder (Discord: #team-mindbuilder)
+• Focus: Advanced AI Assistant with multimodal capabilities
 
 🌐 LIVE WEBSITE:
 https://intelligent-voice-companion.netlify.app/
@@ -74,10 +85,27 @@ The vision features let the AI see through your camera for visual analysis.
 
 Feel free to reach out if you have any questions or want to contribute!
 
+🙏 ACKNOWLEDGMENTS:
+Special thanks to our Team MindBuilder members for their collaborative effort during the Google DeepMind AI Hackathon, the open-source community, Google's AI team for the amazing Gemini API, and everyone who provided feedback during development.
+
+👥 TEAM CONTRIBUTIONS:
+• Henock Hnk: Voice processing, AI integration, project architecture
+• Shaqeelless4: Frontend development, UI/UX design
+• Josue kb: Cross-platform development, build optimization
+• Zama: Design implementation, quality assurance, testing
+
+🏆 HACKATHON ACHIEVEMENT:
+This project represents Team MindBuilder's collaborative effort in the Google DeepMind AI Hackathon 2025, showcasing advanced AI integration and multimodal capabilities.
+
+📄 DETAILED TEAM INFO:
+See CONTRIBUTORS.md for complete team details and individual contributions.
+
 Best regards,
-The Development Team
+Team MindBuilder
+Google DeepMind AI Hackathon 2025
 
 ---
 Last Updated: January 2025
+Team: MindBuilder (Google DeepMind AI Hackathon 2025)
 Repository: https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion
 Live Demo: https://intelligent-voice-companion.netlify.app/
