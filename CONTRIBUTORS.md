@@ -27,12 +27,12 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 
 <div align="center">
 
-| Avatar | Contributor | Role | GitHub Profile | Contributions |
-|--------|-------------|------|----------------|---------------|
-| 🎯 | **Henock Hnk** | Project Lead & Main Developer | [![GitHub](https://img.shields.io/badge/GitHub-HorizonHnk-black?style=flat-square&logo=github)](https://github.com/HorizonHnk) | Voice processing, AI integration, Architecture |
-| 🔧 | **Shaqeelless4** | Core Developer | [![GitHub](https://img.shields.io/badge/GitHub-shaqeelless4-black?style=flat-square&logo=github)](https://github.com/shaqeelless4) | Frontend development, UI/UX |
-| ⚡ | **Josue kb** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-josuekb09-black?style=flat-square&logo=github)](https://github.com/josuekb09) | Cross-platform development |
-| 🎨 | **Zama** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-zama0344-black?style=flat-square&logo=github)](https://github.com/zama0344) | Design and testing |
+| Avatar | Contributor | Role | Discord Username | GitHub Profile | Contributions |
+|--------|-------------|------|------------------|----------------|---------------|
+| 🎯 | **Henock Hnk** | Project Lead & Main Developer | `HorizonHnk` | [![GitHub](https://img.shields.io/badge/GitHub-HorizonHnk-black?style=flat-square&logo=github)](https://github.com/HorizonHnk) | Voice processing, AI integration, Architecture |
+| 🔧 | **Shaqeelless4** | Core Developer | `shaqeelless4` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) | Frontend development, UI/UX |
+| ⚡ | **Josue kb** | Developer | `josuekb09` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) | Cross-platform development |
+| 🎨 | **Zama** | Developer | `zama0344` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) | Design and testing |
 
 </div>
 
@@ -57,8 +57,9 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 
 ## 🛠 Individual Contributions
 
-### **🎯 Henock Hnk ([@HorizonHnk](https://github.com/HorizonHnk))**
+### **🎯 Henock Hnk (Discord: `HorizonHnk`)**
 **Role**: Project Lead & Main Developer
+**GitHub**: [@HorizonHnk](https://github.com/HorizonHnk)
 
 **Key Contributions**:
 - ✅ **Voice Processing System**: Implemented advanced voice recognition and synthesis
@@ -68,7 +69,7 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 - ✅ **Cross-Platform Setup**: Electron and Capacitor configuration
 - ✅ **Documentation**: Comprehensive project documentation and guides
 
-### **🔧 Shaqeelless4 ([@shaqeelless4](https://github.com/shaqeelless4))**
+### **🔧 Shaqeelless4 (Discord: `shaqeelless4`)**
 **Role**: Core Developer
 
 **Key Contributions**:
@@ -78,7 +79,7 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 - ✅ **Component Architecture**: Reusable component design patterns
 - ✅ **Testing**: Frontend testing and quality assurance
 
-### **⚡ Josue kb ([@josuekb09](https://github.com/josuekb09))**
+### **⚡ Josue kb (Discord: `josuekb09`)**
 **Role**: Developer
 
 **Key Contributions**:
@@ -88,7 +89,7 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 - ✅ **Performance**: Application performance optimization
 - ✅ **Deployment**: Production deployment and CI/CD setup
 
-### **🎨 Zama ([@zama0344](https://github.com/zama0344))**
+### **🎨 Zama (Discord: `zama0344`)**
 **Role**: Developer
 
 **Key Contributions**:
@@ -164,10 +165,10 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 [![GitHub](https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github)](https://github.com/HorizonHnk)
 
 ### **📧 Individual Contact**
-- **Henock Hnk**: [@HorizonHnk](https://github.com/HorizonHnk)
-- **Shaqeelless4**: [@shaqeelless4](https://github.com/shaqeelless4)
-- **Josue kb**: [@josuekb09](https://github.com/josuekb09)
-- **Zama**: [@zama0344](https://github.com/zama0344)
+- **Henock Hnk**: Discord `HorizonHnk` | GitHub [@HorizonHnk](https://github.com/HorizonHnk)
+- **Shaqeelless4**: Discord `shaqeelless4`
+- **Josue kb**: Discord `josuekb09`
+- **Zama**: Discord `zama0344`
 
 </div>
 

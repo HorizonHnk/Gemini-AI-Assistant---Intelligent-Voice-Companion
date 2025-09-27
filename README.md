@@ -526,12 +526,12 @@ npx cap run android
 ### **🏆 Team MindBuilder**
 *Google DeepMind AI Hackathon Participants*
 
-| Contributor | Role | GitHub Profile |
-|-------------|------|----------------|
-| **Henock Hnk** | Project Lead & Main Developer | [![GitHub](https://img.shields.io/badge/GitHub-HorizonHnk-black?style=flat-square&logo=github)](https://github.com/HorizonHnk) |
-| **Shaqeelless4** | Core Developer | [![GitHub](https://img.shields.io/badge/GitHub-shaqeelless4-black?style=flat-square&logo=github)](https://github.com/shaqeelless4) |
-| **Josue kb** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-josuekb09-black?style=flat-square&logo=github)](https://github.com/josuekb09) |
-| **Zama** | Developer | [![GitHub](https://img.shields.io/badge/GitHub-zama0344-black?style=flat-square&logo=github)](https://github.com/zama0344) |
+| Contributor | Role | Discord Username | GitHub Profile |
+|-------------|------|------------------|----------------|
+| **Henock Hnk** | Project Lead & Main Developer | `HorizonHnk` | [![GitHub](https://img.shields.io/badge/GitHub-HorizonHnk-black?style=flat-square&logo=github)](https://github.com/HorizonHnk) |
+| **Shaqeelless4** | Core Developer | `shaqeelless4` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) |
+| **Josue kb** | Developer | `josuekb09` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) |
+| **Zama** | Developer | `zama0344` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) |
 
 ### **🎯 Team Information**
 - **Team Name**: **MindBuilder**

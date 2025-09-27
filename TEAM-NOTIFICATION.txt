@@ -5,10 +5,10 @@ Dear Team,
 Team MindBuilder is excited to share that our AI Assistant project from the Google DeepMind AI Hackathon has been significantly updated with new features and is now live!
 
 🏆 TEAM MINDBUILDER MEMBERS:
-• Henock Hnk (@HorizonHnk) - Project Lead & Main Developer
-• Shaqeelless4 (@shaqeelless4) - Core Developer
-• Josue kb (@josuekb09) - Developer
-• Zama (@zama0344) - Developer
+• Henock Hnk (Discord: HorizonHnk) - Project Lead & Main Developer | GitHub: @HorizonHnk
+• Shaqeelless4 (Discord: shaqeelless4) - Core Developer
+• Josue kb (Discord: josuekb09) - Developer
+• Zama (Discord: zama0344) - Developer
 
 🎯 HACKATHON CONTEXT:
 • Event: Google DeepMind AI Hackathon 2025

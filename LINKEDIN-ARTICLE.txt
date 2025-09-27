@@ -7,11 +7,11 @@ TITLE: "Team MindBuilder Presents: Our Google DeepMind AI Hackathon Project - In
 🤖 Excited to share our latest project: Team MindBuilder's Intelligent Voice Companion from the Google DeepMind AI Hackathon that's revolutionizing how we interact with AI!
 
 🏆 TEAM MINDBUILDER:
-👥 Our collaborative team brought together diverse skills:
-• Henock Hnk (@HorizonHnk) - Project Lead & Main Developer
-• Shaqeelless4 (@shaqeelless4) - Core Developer
-• Josue kb (@josuekb09) - Developer
-• Zama (@zama0344) - Developer
+👥 Our collaborative Discord team brought together diverse skills:
+• Henock Hnk (Discord: HorizonHnk) - Project Lead & Main Developer
+• Shaqeelless4 (Discord: shaqeelless4) - Core Developer
+• Josue kb (Discord: josuekb09) - Developer
+• Zama (Discord: zama0344) - Developer
 
 After collaborative development during the Google DeepMind AI Hackathon, Team MindBuilder is thrilled to announce the launch of our comprehensive AI Assistant application that combines cutting-edge voice recognition, computer vision, and conversational AI into one seamless experience.
 
@@ -90,11 +90,11 @@ Since launch:
 
 🙏 ACKNOWLEDGMENTS:
 
-Special thanks to our Team MindBuilder members for their collaborative effort during the Google DeepMind AI Hackathon:
-• Henock Hnk: Voice processing, AI integration, project architecture
-• Shaqeelless4: Frontend development, UI/UX design
-• Josue kb: Cross-platform development, build optimization
-• Zama: Design implementation, quality assurance, testing
+Special thanks to our Team MindBuilder Discord members for their collaborative effort during the Google DeepMind AI Hackathon:
+• Henock Hnk (Discord: HorizonHnk): Voice processing, AI integration, project architecture
+• Shaqeelless4 (Discord: shaqeelless4): Frontend development, UI/UX design
+• Josue kb (Discord: josuekb09): Cross-platform development, build optimization
+• Zama (Discord: zama0344): Design implementation, quality assurance, testing
 
 Also grateful to the open-source community, Google's AI team for the amazing Gemini API, and the hackathon organizers for this incredible opportunity.
 
@@ -138,7 +138,7 @@ No buttons needed - just start talking and it responds naturally. The AI can eve
 🚀 Try it live: https://intelligent-voice-companion.netlify.app/
 📂 Open source: https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion
 
-🏆 Team Members: @HorizonHnk @shaqeelless4 @josuekb09 @zama0344
+🏆 Discord Team Members: HorizonHnk, shaqeelless4, josuekb09, zama0344
 
 What do you think? The future of AI interaction is here!
 
