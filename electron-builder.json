@@ -1,0 +1,22 @@
+{
+  "appId": "com.aiassistant.app",
+  "productName": "AI Assistant",
+  "copyright": "Copyright © 2024 AI Assistant App",
+  "directories": {
+    "output": "electron-dist"
+  },
+  "files": [
+    "dist/**/*",
+    "electron.cjs",
+    "package.json"
+  ],
+  "asar": false,
+  "npmRebuild": false,
+  "win": {
+    "target": {
+      "target": "portable",
+      "arch": ["x64"]
+    }
+  },
+  "compression": "normal"
+}

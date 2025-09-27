@@ -8,4 +8,18 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  base: './',
+  build: {
+    outDir: 'dist',
+    emptyOutDir: true,
+    rollupOptions: {
+      output: {
+        format: 'es'
+      }
+    }
+  },
+  server: {
+    port: 5173,
+    strictPort: true
+  }
 })
