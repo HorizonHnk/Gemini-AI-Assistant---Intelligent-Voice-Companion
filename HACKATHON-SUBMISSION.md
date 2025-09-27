@@ -8,7 +8,8 @@
 ### Team MindBuilder
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Try%20Now-brightgreen?style=for-the-badge)](https://intelligent-voice-companion.netlify.app/)
-[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-View%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)
+[![Presentation](https://img.shields.io/badge/📊%20Presentation-View%20Slides-blue?style=for-the-badge)](https://mindbuilder-sian7nw.gamma.site/)
+[![GitHub](https://img.shields.io/badge/📂%20Source%20Code-View%20Repository-black?style=for-the-badge&logo=github)](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)
 
 </div>
 
@@ -228,6 +229,43 @@ An **Intelligent Voice Companion** that revolutionizes AI interaction through:
 - **Multi-language Support**: Global accessibility with language detection
 - **IoT Integration**: Smart home and device control through voice
 - **Advanced Vision**: Real-time object manipulation and AR integration
+
+---
+
+## 🎥 Presentation Materials
+
+### **📊 Interactive Presentation Deck**
+**Link**: [https://mindbuilder-sian7nw.gamma.site/](https://mindbuilder-sian7nw.gamma.site/)
+
+**Content Overview**:
+- Project overview and team introduction
+- Technical architecture and implementation details
+- Live demonstration walkthrough and features
+- Impact analysis and real-world applications
+- Judging criteria alignment and achievements
+- Future roadmap and scalability vision
+
+### **🎬 Video Content**
+| Video | Focus | Description |
+|-------|-------|-------------|
+| **AI Coach, Not an Answer Key** | Educational Philosophy | Core principles behind AI-powered learning guidance |
+| **Beyond the Answer Key: Why AI Must Ditch Instant Gratification** | Innovation Design | Deep dive into thoughtful AI interaction methodology |
+
+### **📄 Educational Documentation**
+| Document | Pages | Content |
+|----------|-------|---------|
+| **MindBuilder English Learning AI Companion** | ~15 pages | Complete technical and educational implementation guide |
+| **Transforming Student Learning with AI-Powered Guidance** | ~8 pages | Educational impact research and learning methodology |
+
+### **📋 Complete Materials Package**
+All presentation materials are included in the repository:
+- ✅ **Interactive Slides**: Professional presentation deck with live demonstrations
+- ✅ **Video Explanations**: Educational philosophy and technical innovation videos
+- ✅ **Technical Documentation**: Comprehensive PDFs covering implementation and impact
+- ✅ **Live Demo Access**: Instant testing and evaluation capabilities
+- ✅ **Source Code**: Complete repository with professional documentation
+
+**📋 Materials Index**: See [PRESENTATION-MATERIALS.md](PRESENTATION-MATERIALS.md) for detailed breakdown
 
 ---
 

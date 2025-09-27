@@ -19,6 +19,7 @@
 ## 📋 Table of Contents
 
 - [🌐 Live Demo](#-live-demo)
+- [🎥 Presentation](#-presentation)
 - [✨ Key Features](#-key-features)
 - [🛠 Technology Stack](#-technology-stack)
 - [🚀 Quick Start](#-quick-start)
@@ -43,6 +44,10 @@
 ## 🌐 Live Demo
 
 > **🚀 Try it now: [https://intelligent-voice-companion.netlify.app/](https://intelligent-voice-companion.netlify.app/)**
+
+## 🎥 Presentation
+
+> **📊 View presentation: [https://mindbuilder-sian7nw.gamma.site/](https://mindbuilder-sian7nw.gamma.site/)**
 
 <div align="center">
 
@@ -410,6 +415,7 @@ npx cap run android
 
 | Document | Description | Link |
 |----------|-------------|------|
+| **🎥 Presentation Materials** | Videos, PDFs, and presentation deck | [PRESENTATION-MATERIALS.md](PRESENTATION-MATERIALS.md) |
 | **🏆 Hackathon Submission** | Complete Google DeepMind AI Hackathon submission | [HACKATHON-SUBMISSION.md](HACKATHON-SUBMISSION.md) |
 | **👥 Contributors Guide** | Team details and individual contributions | [CONTRIBUTORS.md](CONTRIBUTORS.md) |
 | **🛠 Blank Screen Fix** | Troubleshooting production builds | [BLANK-SCREEN-FIX.md](BLANK-SCREEN-FIX.md) |
