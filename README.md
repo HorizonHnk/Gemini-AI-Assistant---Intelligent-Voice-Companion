@@ -410,6 +410,7 @@ npx cap run android
 
 | Document | Description | Link |
 |----------|-------------|------|
+| **🏆 Hackathon Submission** | Complete Google DeepMind AI Hackathon submission | [HACKATHON-SUBMISSION.md](HACKATHON-SUBMISSION.md) |
 | **👥 Contributors Guide** | Team details and individual contributions | [CONTRIBUTORS.md](CONTRIBUTORS.md) |
 | **🛠 Blank Screen Fix** | Troubleshooting production builds | [BLANK-SCREEN-FIX.md](BLANK-SCREEN-FIX.md) |
 | **🖥 Electron Build Guide** | Desktop app development | [ELECTRON-BUILD-GUIDE.md](ELECTRON-BUILD-GUIDE.md) |
@@ -533,11 +534,18 @@ npx cap run android
 | **Josue kb** | Developer | `josuekb09` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) |
 | **Zama** | Developer | `zama0344` | [![GitHub](https://img.shields.io/badge/GitHub-Available-gray?style=flat-square&logo=github)](https://github.com) |
 
-### **🎯 Team Information**
-- **Team Name**: **MindBuilder**
-- **Discord Channel**: **#team-mindbuilder**
+### **🎯 Hackathon Information**
 - **Event**: **Google DeepMind AI Hackathon**
-- **Project Type**: **Collaborative AI Assistant Development**
+- **Organizers**: Google Developer Group Cape Town, Google DeepMind, Department of Communications & Digital Technologies (South Africa)
+- **Team**: **MindBuilder** (Discord: `#team-mindbuilder`)
+- **Theme**: **General AI Innovation** (focused on voice interaction and multimodal AI)
+- **Technologies**: Google Gemini API, React, Web APIs
+
+### **🏆 Judging Criteria Alignment**
+- **Impact (30%)**: Intelligent voice companion with real-world applications across platforms
+- **Polish (30%)**: Fully functional web app, desktop app, and mobile app with professional UI/UX
+- **Wow Factor (30%)**: Hands-free voice interaction with AI vision capabilities - truly magical experience
+- **Presentation (10%)**: Comprehensive documentation, live demo, and professional repository
 
 </div>
 

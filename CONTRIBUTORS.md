@@ -7,6 +7,8 @@
 ## 🏆 Team MindBuilder
 ### *Google DeepMind AI Hackathon 2025*
 
+**Organizers**: Google Developer Group Cape Town, Google DeepMind, Department of Communications & Digital Technologies (South Africa)
+
 [![Team Badge](https://img.shields.io/badge/Team-MindBuilder-blue?style=for-the-badge&logo=discord)](https://discord.com)
 [![Event Badge](https://img.shields.io/badge/Event-Google%20DeepMind%20AI%20Hackathon-red?style=for-the-badge&logo=google)](https://ai.google.dev/)
 
@@ -49,9 +51,16 @@ The **AI Assistant - Intelligent Voice Companion** is the result of collaborativ
 
 ### **🏆 Hackathon Context**
 - **Event**: Google DeepMind AI Hackathon
-- **Focus**: Advanced AI Assistant with multimodal capabilities
-- **Technologies**: React, Google Gemini API, Web APIs
-- **Innovation**: Hands-free voice interaction with AI vision
+- **Organizers**: Google Developer Group Cape Town, Google DeepMind, Department of Communications & Digital Technologies (South Africa)
+- **Focus**: AI Innovation with real-world impact across multiple domains
+- **Technologies**: Google Gemini API, React, Advanced Web APIs
+- **Innovation**: Revolutionary hands-free voice interaction with AI vision capabilities
+
+### **🎯 Judging Criteria Alignment**
+- **Impact (30%)**: Cross-platform AI assistant with accessibility and productivity benefits
+- **Polish (30%)**: Production-ready application with professional UI/UX across all platforms
+- **Wow Factor (30%)**: Automatic voice detection and seamless multimodal AI interaction
+- **Presentation (10%)**: Comprehensive documentation, live demo, and professional repository
 
 ---
 
