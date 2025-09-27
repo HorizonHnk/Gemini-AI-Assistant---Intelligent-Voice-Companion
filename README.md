@@ -1,7 +1,13 @@
+<div align="center">
+
+![AI Assistant Logo](IA%20Assistente%20Logo%20e%20Design.png)
+
 # 🤖 AI Assistant - Intelligent Voice Companion
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen)](https://intelligent-voice-companion.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)
+
+</div>
 
 A comprehensive AI Assistant application with advanced voice, video, and chat capabilities, powered by Google's Gemini AI. Experience seamless conversations across multiple platforms - web, desktop, and mobile.
 
