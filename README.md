@@ -4,7 +4,7 @@
 
 # 🤖 AI Assistant - Intelligent Voice Companion
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://intelligent-voice-companion.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://intelligent-voice-companion-ai.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)
 [![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
@@ -43,7 +43,7 @@
 
 ## 🌐 Live Demo
 
-> **🚀 Try it now: [https://intelligent-voice-companion.netlify.app/](https://intelligent-voice-companion.netlify.app/)**
+> **🚀 Try it now: [https://intelligent-voice-companion-ai.netlify.app/](https://intelligent-voice-companion-ai.netlify.app/)**
 
 ## 🎥 Presentation
 
@@ -53,7 +53,7 @@
 
 | Platform | Status | URL |
 |----------|--------|-----|
-| 🌐 Web App | ✅ Live | [intelligent-voice-companion.netlify.app](https://intelligent-voice-companion.netlify.app/) |
+| 🌐 Web App | ✅ Live | [https://intelligent-voice-companion-ai.netlify.app/](https://intelligent-voice-companion-ai.netlify.app/) |
 | 📂 Source Code | ✅ Available | [GitHub Repository](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion) |
 | 🖥 Desktop App | ✅ Ready | Run `npm run electron` |
 | 📱 Android App | ✅ Configured | Build with `npx cap sync` |
@@ -194,7 +194,7 @@ npm run dev
 
 | Platform | Status | Features | Installation |
 |----------|--------|----------|--------------|
-| **🌐 Web Browser** | ✅ Live | Full functionality | Visit [live demo](https://intelligent-voice-companion.netlify.app/) |
+| **🌐 Web Browser** | ✅ Live | Full functionality | Visit [live demo](https://intelligent-voice-companion-ai.netlify.app/) |
 | **🖥 Desktop (Electron)** | ✅ Ready | Native experience | `npm run electron` |
 | **📱 Android (Capacitor)** | ✅ Configured | Mobile optimized | `npx cap sync` |
 | **🍎 iOS** | 🔄 Planned | Future release | Coming soon |
@@ -202,7 +202,7 @@ npm run dev
 </div>
 
 ### **🌐 Web Browser**
-- **Live Application**: [https://intelligent-voice-companion.netlify.app/](https://intelligent-voice-companion.netlify.app/)
+- **Live Application**: [https://intelligent-voice-companion-ai.netlify.app/](https://intelligent-voice-companion-ai.netlify.app/)
 - **Compatible Browsers**: Chrome, Edge, Safari, Firefox (latest versions)
 - **Full Features**: Voice, video, and chat capabilities
 
@@ -489,7 +489,7 @@ npx cap run android
 <div align="center">
 
 ### **🌐 Application Links**
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://intelligent-voice-companion.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://intelligent-voice-companion-ai.netlify.app/)
 [![GitHub](https://img.shields.io/badge/📂%20Source%20Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/HorizonHnk/Gemini-AI-Assistant---Intelligent-Voice-Companion)
 
 ### **🔧 Technology Links**
@@ -583,7 +583,7 @@ For questions, issues, or contributions:
 
 ## 🎯 **Experience the Future of AI Interaction**
 
-[![Try Now](https://img.shields.io/badge/🚀%20TRY%20NOW-Live%20Demo-brightgreen?style=for-the-badge&logo=rocket)](https://intelligent-voice-companion.netlify.app/)
+[![Try Now](https://img.shields.io/badge/🚀%20TRY%20NOW-Live%20Demo-brightgreen?style=for-the-badge&logo=rocket)](https://intelligent-voice-companion-ai.netlify.app/)
 
 ### *Built with ❤️ using React, Vite, Tailwind CSS, and Google Gemini AI*
 
